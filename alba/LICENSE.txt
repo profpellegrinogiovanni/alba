@@ -1,0 +1,21 @@
+Creative Commons Attribuzione - Non commerciale 4.0 Internazionale (CC BY-NC 4.0)
+
+Copyright © 2025 Prof. Giovanni Pellegrino
+
+Il Linguaggio di Programmazione Alba è un'opera originale creata dal
+Prof. Giovanni Pellegrino a scopo educativo.
+
+È consentito:
+- Usare, copiare e distribuire il linguaggio per scopi didattici e non commerciali
+- Modificare e adattare il codice per uso educativo
+- Condividere il materiale citando l'autore originale
+
+A condizione che:
+- Venga sempre indicata la paternità: "Linguaggio Alba — Prof. Giovanni Pellegrino"
+- Il materiale non venga usato per scopi commerciali senza autorizzazione scritta
+- Le opere derivate vengano distribuite con la stessa licenza
+
+Per uso commerciale o partnership istituzionali, contattare l'autore.
+
+Testo completo della licenza:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode.it
